@@ -1,3 +1,6 @@
+# チーム：HakataNoShio
+博多の塩です(STD2-A)
+
 # onigiri_war
 OneNightROBOCON競技「onigiri war」プロジェクト
 
